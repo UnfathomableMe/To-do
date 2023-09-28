@@ -1,6 +1,4 @@
 - NAME: Neha Shende
-- NUID: 002783740
-*** ASSIGNMENT 9 ***
 
 Reactjs Todo app
 
